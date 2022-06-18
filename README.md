@@ -2,6 +2,5 @@
 ## subhead
 ### *EV*
 ***bold italics***
-
--first
--second
+- first
+- second
